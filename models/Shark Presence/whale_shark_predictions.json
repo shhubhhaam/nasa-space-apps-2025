@@ -1,0 +1,4923 @@
+[
+  {
+    "latitude": -90.0,
+    "longitude": -180.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": -170.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": -160.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": -150.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": -140.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": -130.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": -120.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": -110.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": -100.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": -90.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": -80.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": -70.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": -60.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": -50.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": -40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": -30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": -20.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": -10.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": 0.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": 10.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": 20.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": 30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": 40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": 50.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": 60.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": 70.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": 80.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": 90.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": 100.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": 110.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": 120.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": 130.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": 140.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": 150.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": 160.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": 170.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -90.0,
+    "longitude": 180.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": -180.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": -170.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": -160.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": -150.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": -140.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": -130.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": -120.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": -110.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": -100.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": -90.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": -80.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": -70.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": -60.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": -50.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": -40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": -30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": -20.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": -10.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": 0.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": 10.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": 20.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": 30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": 40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": 50.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": 60.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": 70.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": 80.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": 90.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": 100.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": 110.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": 120.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": 130.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": 140.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": 150.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": 160.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": 170.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -80.0,
+    "longitude": 180.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": -180.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": -170.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": -160.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": -150.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": -140.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": -130.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": -120.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": -110.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": -100.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": -90.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": -80.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": -70.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": -60.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": -50.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": -40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": -30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": -20.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": -10.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": 0.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": 10.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": 20.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": 30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": 40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": 50.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": 60.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": 70.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": 80.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": 90.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": 100.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": 110.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": 120.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": 130.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": 140.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": 150.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": 160.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": 170.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -70.0,
+    "longitude": 180.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": -180.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": -170.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": -160.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": -150.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": -140.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": -130.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": -120.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": -110.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": -100.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": -90.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": -80.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": -70.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": -60.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": -50.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": -40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": -30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": -20.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": -10.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": 0.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": 10.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": 20.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": 30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": 40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": 50.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": 60.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": 70.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": 80.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": 90.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": 100.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": 110.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": 120.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": 130.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": 140.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": 150.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": 160.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": 170.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -60.0,
+    "longitude": 180.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": -180.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": -170.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": -160.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": -150.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": -140.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": -130.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": -120.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": -110.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": -100.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": -90.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": -80.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": -70.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": -60.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": -50.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": -40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": -30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": -20.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": -10.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": 0.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": 10.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": 20.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": 30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": 40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": 50.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": 60.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": 70.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": 80.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": 90.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": 100.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": 110.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": 120.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": 130.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": 140.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": 150.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": 160.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": 170.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -50.0,
+    "longitude": 180.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": -180.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": -170.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": -160.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": -150.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": -140.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": -130.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": -120.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": -110.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": -100.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": -90.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": -80.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": -70.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": -60.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": -50.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": -40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": -30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": -20.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": -10.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": 0.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": 10.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": 20.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": 30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": 40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": 50.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": 60.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": 70.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": 80.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": 90.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": 100.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": 110.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": 120.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": 130.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": 140.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": 150.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": 160.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": 170.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": 180.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": -180.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": -170.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": -160.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": -150.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": -140.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": -130.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": -120.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": -110.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": -100.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": -90.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": -80.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": -70.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": -60.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": -50.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": -40.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": -30.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": -20.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": -10.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": 0.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": 10.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": 20.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": 30.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": 40.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": 50.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": 60.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": 70.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": 80.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": 90.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": 100.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": 110.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": 120.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": 130.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": 140.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": 150.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": 160.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": 170.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -30.0,
+    "longitude": 180.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": -180.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": -170.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": -160.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": -150.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": -140.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": -130.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": -120.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": -110.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": -100.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": -90.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": -80.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": -70.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": -60.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": -50.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": -40.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": -30.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": -20.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": -10.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": 0.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": 10.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": 20.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": 30.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": 40.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": 50.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": 60.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": 70.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": 80.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": 90.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": 100.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": 110.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": 120.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": 130.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": 140.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": 150.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": 160.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": 170.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -20.0,
+    "longitude": 180.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": -180.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": -170.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": -160.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": -150.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": -140.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": -130.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": -120.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": -110.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": -100.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": -90.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": -80.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": -70.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": -60.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": -50.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": -40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": -30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": -20.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": -10.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": 0.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": 10.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": 20.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": 30.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": 40.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": 50.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": 60.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": 70.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": 80.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": 90.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": 100.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": 110.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": 120.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": 130.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": 140.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": 150.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": 160.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": 170.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": -10.0,
+    "longitude": 180.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": -180.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": -170.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": -160.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": -150.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": -140.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": -130.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": -120.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": -110.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": -100.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": -90.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": -80.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": -70.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": -60.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": -50.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": -40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": -30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": -20.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": -10.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": 10.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": 20.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": 30.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": 40.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": 50.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": 60.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": 70.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": 80.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": 90.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": 100.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": 110.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": 120.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": 130.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": 140.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": 150.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": 160.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": 170.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 0.0,
+    "longitude": 180.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": -180.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": -170.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": -160.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": -150.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": -140.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": -130.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": -120.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": -110.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": -100.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": -90.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": -80.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": -70.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": -60.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": -50.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": -40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": -30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": -20.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": -10.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": 0.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": 10.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": 20.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": 30.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": 40.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": 50.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": 60.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": 70.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": 80.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": 90.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": 100.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": 110.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": 120.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": 130.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": 140.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": 150.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": 160.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": 170.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 10.0,
+    "longitude": 180.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": -180.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": -170.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": -160.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": -150.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": -140.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": -130.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": -120.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": -110.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": -100.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": -90.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": -80.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": -70.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": -60.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": -50.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": -40.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": -30.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": -20.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": -10.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": 0.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": 10.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": 20.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Simulated Landmass Exclusion"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": 30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Simulated Landmass Exclusion"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": 40.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": 50.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": 60.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": 70.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": 80.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": 90.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": 100.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": 110.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": 120.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": 130.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": 140.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": 150.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": 160.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": 170.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 20.0,
+    "longitude": 180.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": -180.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": -170.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": -160.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": -150.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": -140.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": -130.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": -120.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": -110.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": -100.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": -90.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Simulated Landmass Exclusion"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": -80.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Simulated Landmass Exclusion"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": -70.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Simulated Landmass Exclusion"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": -60.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Simulated Landmass Exclusion"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": -50.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": -40.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": -30.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": -20.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": -10.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": 0.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": 10.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": 20.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": 30.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": 40.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": 50.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": 60.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": 70.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": 80.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": 90.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": 100.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": 110.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": 120.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": 130.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": 140.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": 150.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": 160.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": 170.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 30.0,
+    "longitude": 180.0,
+    "model_output": 1,
+    "prediction": "Possible Habitat",
+    "reason": "Within tropical/warm temperate zone (Model Output: 1)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": -180.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": -170.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": -160.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": -150.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": -140.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": -130.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": -120.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": -110.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": -100.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": -90.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Simulated Landmass Exclusion"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": -80.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Simulated Landmass Exclusion"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": -70.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Simulated Landmass Exclusion"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": -60.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Simulated Landmass Exclusion"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": -50.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": -40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": -30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": -20.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": -10.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": 0.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": 10.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": 20.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": 30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": 40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": 50.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": 60.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": 70.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": 80.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": 90.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": 100.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": 110.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": 120.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": 130.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": 140.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": 150.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": 160.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": 170.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 40.0,
+    "longitude": 180.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": -180.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": -170.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": -160.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": -150.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": -140.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": -130.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": -120.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": -110.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": -100.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": -90.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": -80.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": -70.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": -60.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": -50.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": -40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": -30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": -20.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": -10.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": 0.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": 10.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": 20.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": 30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": 40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": 50.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": 60.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": 70.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": 80.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": 90.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": 100.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": 110.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": 120.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": 130.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": 140.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": 150.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": 160.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": 170.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 50.0,
+    "longitude": 180.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": -180.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": -170.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": -160.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": -150.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": -140.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": -130.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": -120.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": -110.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": -100.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": -90.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": -80.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": -70.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": -60.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": -50.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": -40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": -30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": -20.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": -10.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": 0.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": 10.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": 20.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": 30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": 40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": 50.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": 60.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": 70.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": 80.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": 90.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": 100.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": 110.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": 120.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": 130.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": 140.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": 150.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": 160.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": 170.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 60.0,
+    "longitude": 180.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": -180.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": -170.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": -160.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": -150.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": -140.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": -130.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": -120.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": -110.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": -100.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": -90.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": -80.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": -70.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": -60.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": -50.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": -40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": -30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": -20.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": -10.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": 0.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": 10.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": 20.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": 30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": 40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": 50.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": 60.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": 70.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": 80.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": 90.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": 100.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": 110.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": 120.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": 130.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": 140.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": 150.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": 160.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": 170.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 70.0,
+    "longitude": 180.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": -180.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": -170.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": -160.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": -150.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": -140.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": -130.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": -120.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": -110.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": -100.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": -90.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": -80.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": -70.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": -60.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": -50.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": -40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": -30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": -20.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": -10.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": 0.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": 10.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": 20.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": 30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": 40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": 50.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": 60.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": 70.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": 80.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": 90.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": 100.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": 110.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": 120.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": 130.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": 140.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": 150.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": 160.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": 170.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 80.0,
+    "longitude": 180.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": -180.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": -170.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": -160.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": -150.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": -140.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": -130.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": -120.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": -110.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": -100.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": -90.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": -80.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": -70.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": -60.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": -50.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": -40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": -30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": -20.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": -10.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": 0.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": 10.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": 20.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": 30.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": 40.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": 50.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": 60.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": 70.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": 80.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": 90.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": 100.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": 110.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": 120.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": 130.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": 140.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": 150.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": 160.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": 170.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  },
+  {
+    "latitude": 90.0,
+    "longitude": 180.0,
+    "model_output": 0,
+    "prediction": "Unlikely",
+    "reason": "Outside defined range or cold-water exclusion (Model Output: 0)"
+  }
+]
